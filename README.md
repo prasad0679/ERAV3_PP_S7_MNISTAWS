@@ -13,6 +13,9 @@ Once done, train on SageMaker or EC2
 ## Model Training Logs on Google Colab:
 ![GoogleColab_FinalModel_TrainingLogs](https://github.com/user-attachments/assets/1ec35410-6859-46c5-83fb-7e4e23add5c9)
 
+## Model Training Logs on AWS SageMaker
+![AWS_Sagemaker_trainingLogs](https://github.com/user-attachments/assets/c1f4bdfa-8622-42e5-b975-eb9670116cc7)
+
 ## Summary of different levers which have been implemented to achieve the target. 3 attempts have been recorded
 ![Model_Actions_Summary](https://github.com/user-attachments/assets/30c75595-76ee-4655-9af9-7b5396a91734)
 
